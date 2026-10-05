@@ -41,6 +41,7 @@ JAWAB
 
 
 ![Cuplikan layar 2026-10-05 210255](Cuplikan%20layar%202026-10-05%20210255.png)
+
 3.Berdasarkan File /etc/group, root:x:0 Menunjukkan Bahwa root Merupakan Nama Grup,X Menunjukkan Password Grup,0 Merupakan Group ID (GID), Dan Kolom Member Kosong Karena Tidak Terdapat User Tambahan Yang Tercantum Pada Grup Tersebut
 
 
